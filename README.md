@@ -1,4 +1,4 @@
-# php-js-hello
+# php-silex-hello
 Simple stub with Docker and debugging in vs.code (ok, so debuggin in PHP is still coming)
 
 Now using Silex!
