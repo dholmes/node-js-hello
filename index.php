@@ -1,0 +1,1 @@
+Hello World at <?= date_create('now')->format('Y-m-d'); ?>
